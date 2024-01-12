@@ -3,7 +3,7 @@
 
 联系客服：https://t.me/princekf01
 
-波场trx兑换，usdt兑换，能量租用，飞机会员开通，波场地址监控，靓号售卖，机器人，波场能量购买、波场能量代理、trx质押、多地址监听、闪兑能量、usdt转账、免费代理能量、trx入账自动回能量
+波场trx兑换，usdt兑换，能量租用，飞机会员开通，波场地址监控，靓号售卖，机器人，波场能量购买、波场能量代理、trx质押、多地址监听（监控地址的USDT交易(双向),TRX交易(双向),授权(双向),多签(双向),质押(双向)。可配置开启或者关闭某一项监听）、闪兑能量、usdt转账、免费代理能量、trx入账自动回能量，能量智能托管，能量笔数套餐，闪兑自动进货
 
 
 功能：完完全全自主配置，自主控制的机器人(以下只是部分功能，更多细节可查看机器人了解)。https://t.me/princetrx_bot
@@ -21,4 +21,15 @@
 12. 敏感数据加密，更安全，数据库不可读私钥等敏感数据，代码开源
 13. 自动开通电报会员功能，可设置相应套餐价格，自助下单开通
 14. 商城卡密功能，可自动购买，充值购买，批量上架，卡密加密等
+15. 更多功能详见机器人。。。
 
+
+<b>以下是部分闪兑机器人后台功能图片，更多图片可以查看代码库文件夹内的图片</b>
+
+<img src="https://github.com/PrinceCoder8/tronswap/blob/main/%E5%9B%BE%E7%89%87/%E5%85%85%E5%80%BC%E4%BA%A4%E6%98%93.png?raw=true">
+<img src="https://github.com/PrinceCoder8/tronswap/blob/main/%E5%9B%BE%E7%89%87/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%B3%E9%94%AE%E5%AD%97%E5%9B%9E%E5%A4%8D.png?raw=true">
+<img src="https://github.com/PrinceCoder8/tronswap/blob/main/%E5%9B%BE%E7%89%87/%E8%83%BD%E9%87%8F%E5%B9%B3%E5%8F%B0.png?raw=true">
+<img src="https://github.com/PrinceCoder8/tronswap/blob/main/%E5%9B%BE%E7%89%87/%E9%97%AA%E5%85%91%E9%92%B1%E5%8C%85.png?raw=true">
+<img src="https://github.com/PrinceCoder8/tronswap/blob/main/%E5%9B%BE%E7%89%87/%E9%A3%9E%E6%9C%BA%E4%BC%9A%E5%91%98.png?raw=true">
+<img src="https://github.com/PrinceCoder8/tronswap/blob/main/%E5%9B%BE%E7%89%87/%E7%9B%91%E6%8E%A7%E5%9C%B0%E5%9D%80%E9%92%B1%E5%8C%85.png?raw=true">
+<img src="https://github.com/PrinceCoder8/tronswap/blob/main/%E5%9B%BE%E7%89%87/%E5%8D%A1%E5%AF%86%E7%AE%A1%E7%90%86.png?raw=true">
