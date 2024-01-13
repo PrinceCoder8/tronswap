@@ -1,12 +1,12 @@
 # tronswap
-搭建同款机器人：https://t.me/princetrx_bot
+搭建同款机器人：https://t.me/princeUSDT_BOT
 
-联系客服：https://t.me/princekf01
+联系客服：https://t.me/fengyu008
 
 波场trx兑换，usdt兑换，能量租用，飞机会员开通，波场地址监控，靓号售卖，机器人，波场能量购买、波场能量代理、trx质押、多地址监听（监控地址的USDT交易(双向),TRX交易(双向),授权(双向),多签(双向),质押(双向)。可配置开启或者关闭某一项监听）、闪兑能量、usdt转账、免费代理能量、trx入账自动回能量，能量智能托管，能量笔数套餐，闪兑自动进货， usdt swap,trx swap,energy pledge,wallet monitor
 
 
-功能：完完全全自主配置，自主控制的机器人(以下只是部分功能，更多细节可查看机器人了解)。https://t.me/princetrx_bot
+功能：完完全全自主配置，自主控制的机器人(以下只是部分功能，更多细节可查看机器人了解)。https://t.me/princeUSDT_BOT
 1. usdt闪兑机器人，可配置多个机器人，设置不同的汇率，自动进货，设置黑钱包，最大和最低兑换金额，预支等功能
 2. 可对机器人设置不同的关键字回复，不开启闪兑功能也可以用
 3. 可对机器人设置命令
