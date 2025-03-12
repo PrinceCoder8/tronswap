@@ -1,7 +1,7 @@
 # tronswap
 搭建同款机器人：https://t.me/princeUSDT_BOT
 
-联系客服：https://t.me/fengyu008
+联系客服：https://t.me/swapusdd
 
 波场trx兑换，usdt兑换，能量租用，飞机会员开通，波场地址监控，靓号售卖，机器人，波场归集，usdt归集，trx归集，自动归集，计算器，波场能量购买，波场能量代理，trx质押，多地址监听（监控地址的USDT交易(双向),TRX交易(双向),授权(双向),多签(双向),质押(双向)。可配置开启或者关闭某一项监听），闪兑能量，usdt转账，免费代理能量，trx入账自动回能量，能量智能托管，能量笔数套餐，闪兑自动进货，波场能量租赁，usdt兑换trx，trx出租， usdt swap,trx swap,energy pledge,wallet monitor，telegram bot，telegram兑换机器人，定时发送消息,定时给关注用户发送消息，telegram会员开通，权限验证
 
